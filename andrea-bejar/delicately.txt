@@ -84,8 +84,8 @@ So what if I need someone who will handle me delicately
 Find beauty in feeling everything / Brave enough to come undone
    Dmaj7                                      A
 So what if I need someone who will look at me tenderly
-                  Dmaj7                         A
-Hold me now I'm unraveling / Tell I'm never too much
+                  Dmaj7                            A
+Hold me now I'm unraveling / Tell me I'm never too much
                            Dmaj7             F#m
 So what if there's more to love? / Oh-oh ohh ohhh
                      Dmaj7          A
@@ -94,3 +94,5 @@ You can take me as I co-oh-oh-oh-oh-me
 
 Dmaj7    A
 Dmaj7    A
+
+(end)
